@@ -1,0 +1,9 @@
+.container-chamada__imagem-titulo {
+    display: flex;
+    width: 90%;
+    height: 190px;
+    background-image: url(../../img/black-pet.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}

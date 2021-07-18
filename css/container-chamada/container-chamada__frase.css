@@ -1,0 +1,7 @@
+.container-chamada__frase {
+    display: flex;
+    color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding: 40px;
+}
