@@ -1,0 +1,11 @@
+.formulario {
+    margin-top: 50px;
+    margin: auto;
+    display: flex; 
+    flex-direction: column;
+    width: 40%;
+    max-width: 400px;
+    height: 80%;
+    background-color:blueviolet;
+    padding: 30px;
+}
