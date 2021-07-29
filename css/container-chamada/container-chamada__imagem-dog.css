@@ -7,3 +7,11 @@
     background-repeat: no-repeat;
     
 }
+
+@media screen and (max-width: 768px) {
+    .container-chamada__imagem-dog {
+    margin: auto;
+    background-position: center;
+    }
+
+}
