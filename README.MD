@@ -1,4 +1,4 @@
-Landing page Hiring Coders - VTEX
+# Landing page Hiring Coders - VTEX
 
 O programa consistiu em impulsionar o aprendizado nos primeiros passos do desenvolvimento web.
 O desafio deste projeto era criar uma leanding page para capturar leads através de uma campanha de black friday, usando o conhecimento té então adquirido em HTML e CSS.
@@ -12,5 +12,8 @@ Com base nos meus conhecimentos da época, entreguei a atividade como está nest
 Este foi o resultado:
 
 ![leanding_page_hiringcoders](https://user-images.githubusercontent.com/77770841/135302073-53642542-404f-475c-9b9a-669318ad5b29.jpg)
+
+<a href="https://wonderful-jepsen-9b1dff.netlify.app/">Acessar Aplicação</a>
+
 
 A prática é a principal ferramenta de aprendizagem. 
