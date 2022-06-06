@@ -1,13 +1,11 @@
 # Landing page Hiring Coders - VTEX
 
 O programa consistiu em impulsionar o aprendizado nos primeiros passos do desenvolvimento web.
-O desafio deste projeto era criar uma leanding page para capturar leads através de uma campanha de black friday, usando o conhecimento té então adquirido em HTML e CSS.
+O desafio deste projeto era criar uma leanding page para capturar leads através de uma campanha de black friday, utilizando HTML e CSS.
 
-Desenvolvi a aplicação simulando a leanding page de uma loja para produtos de animais de estimação anunciando o mês de novembro inteiro em promoção com descontos da blackfriday.
+Desenvolvi a aplicação simulando a leanding page de uma loja para produtos de animais de estimação, anunciando o mês de novembro em promoção com descontos da blackfriday.
 
-Apostei em um fundo escuro e tons baseados na teoria das cores evidenciando pontos importantes da página.
-
-Com base nos meus conhecimentos da época, entreguei a atividade como está neste diretório. Enfrentei algumas dificuldades com responsividade e em posicionar os elementos precisamente na tela, criando um código de estilização desnecessariamente robusto.
+Apostei em um fundo escuro e tons baseados na teoria das cores, evidenciando pontos importantes da página.
 
 Este foi o resultado:
 
@@ -15,5 +13,3 @@ Este foi o resultado:
 
 <a href="https://wonderful-jepsen-9b1dff.netlify.app/">Acessar Aplicação</a>
 
-
-A prática é a principal ferramenta de aprendizagem. 
